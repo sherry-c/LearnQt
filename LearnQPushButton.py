@@ -108,7 +108,7 @@ class LearnQLabel(QMainWindow):
 def myfun():
     app = QApplication()
 
-    icon = QIcon(r'C:\Users\15516\Desktop\testui\box-color.ico')
+    icon = QIcon(r'box-color.ico')
     # 设置主窗口的图标
     app.setWindowIcon(icon)
 
