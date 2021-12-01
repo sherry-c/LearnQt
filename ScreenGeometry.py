@@ -25,8 +25,8 @@ object.geometry().y()
 import sys
 from pprint import pprint
 
-from PyQt6.QtGui import QGuiApplication
-from PyQt6.QtWidgets import QApplication, QWidget, QPushButton
+from PySide6.QtGui import QGuiApplication
+from PySide6.QtWidgets import QApplication, QWidget, QPushButton
 
 
 def ClickedButton():
