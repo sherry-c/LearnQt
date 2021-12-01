@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="box_ico">
+    <file>box-color.ico</file>
+  </qresource>
+</RCC>
