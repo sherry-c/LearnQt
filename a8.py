@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-#@Time  : 2021/12/3 9:54
+# @Time  : 2021/12/3 9:54
 import sys
-from PySide6.QtCore import Qt, QTimer, QThread, Signal
-from PySide6.QtGui import QFont
+
+from PySide6.QtCore import Qt, QThread, Signal
 from PySide6.QtWidgets import QApplication, QWidget, QLabel, QGridLayout, QLCDNumber, QPushButton, QMessageBox
 
 sec = 0
